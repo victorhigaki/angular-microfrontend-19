@@ -1,0 +1,1 @@
+ng add @angular-architects/native-federation --project host --port 4200 --type dynamic-host
